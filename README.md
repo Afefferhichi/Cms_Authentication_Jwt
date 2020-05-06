@@ -1,4 +1,4 @@
-<h1> Golang Api Rest: Sistema de Login com JWT (Bearer Token) </h1>
+<h1> Authentication System with JWT </h1>
 
 
 Download packages:
@@ -12,7 +12,8 @@ Download packages:
     go get -u github.com/dgrijalva/jwt-go
 
 
-Referências:
+
+References:
     
     GORM:
     
