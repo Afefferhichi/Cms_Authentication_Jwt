@@ -14,7 +14,7 @@ func Run() {
 		db.Debug().CreateTable(&models.User{})
 	}
 	db.Close()
-	listen(8000)
+	listen(7000)
 }
 
 func listen(p int) {
